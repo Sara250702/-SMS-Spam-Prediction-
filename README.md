@@ -21,7 +21,7 @@ This project is an end-to-end machine learning application for SMS spam detectio
   
 2. Create a virtual environment (optional but recommended):
    python -m venv env
-   source env/bin/activate  # On Windows use `env\Scripts\activate`
+   source env/bin/activate  # On Windows use `venv\Scripts\activate`
   
 3. Install dependencies:
    pip install -r requirements.txt
